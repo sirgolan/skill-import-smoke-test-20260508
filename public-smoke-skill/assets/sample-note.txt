@@ -1,0 +1,1 @@
+This companion file confirms that remote folder imports preserve files beyond SKILL.md.
